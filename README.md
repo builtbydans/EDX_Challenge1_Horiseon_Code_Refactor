@@ -41,7 +41,7 @@ and the starter [CSS](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/
 
 ## Live Website
 
-The deployed version on GitHub Pages can be found here: [Horiseon SEO Code Refactor Live](https://builtbydans.github.io/EDX_Horiseon_Code_Refactor)
+The deployed version on GitHub Pages can be found here: [Horiseon SEO Code Refactor Live](https://builtbydans.github.io/EDX_Horiseon_Code_Refactor).
 
 ## Further Refactoring
 
