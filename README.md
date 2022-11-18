@@ -7,7 +7,7 @@ current accessibility standards. In order to do this, a through review of the HT
 the client did not request any visual changes to the website itself so this was purely a refactoring of the current
 codebase.
 
-A screenshot of the website provided by the client can be found here: * [Horiseon Landing Page](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/assets/01-html-css-git-challenge-demo.png)
+A screenshot of the website provided by the client can be found here: [Horiseon Landing Page](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/assets/01-html-css-git-challenge-demo.png).
 
 ## User Story
 
@@ -21,17 +21,17 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criterias
 
-All acceptance criterias and challenge requirements can be found in the [Challenge README](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/starter/Challenge_README.md)
+All acceptance criterias and challenge requirements can be found in the [Challenge README](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/starter/Challenge_README.md).
 
-### Revisions
+## Revisions
 
-## HTML
+### HTML
 The HTML was revised to include a standardised HTML DOCTYPE, which included all relevant meta tags. All div tags were
-reviewed to ensure they followed a semantic HTML pattern. This included replacing divs for <header>, <nav>, <section>, <article> tags and more.
+reviewed to ensure they followed a semantic HTML pattern. This included replacing divs for header, nav, section, article tags and more.
 Small changes were also made to aid accessibility and SEO such as changing the <title> to reflect the Horiseon website and also adding appropriate
-<alt> attributes where necessary. All revisions can be found as comments in the HTML.
+alt attributes where necessary. All revisions can be found as comments in the HTML.
 
-## CSS
+### CSS
 As some classes were removed for semantic HTML elements, these were then reflected in the CSS. The CSS file itself was also re-organised and labelled to follow
 a sequential pattern based on the waterfall of the landing page, to aid other readers to understand what section(s) they need to refer to.
 Much of the CSS was repeated so to ensure the file remained DRY, classes were concatenated for ease-of-reference and to group elements semantically.
@@ -41,7 +41,7 @@ and the starter [CSS](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/
 
 ## Live Website
 
-The deployed version on GitHub Pages can be found here: [Horiseon SEO Code Refactor Live](https://builtbydans.github.io/EDX_Horiseon_Code_Refactor)
+The deployed version on GitHub Pages can be found here: [Horiseon SEO Code Refactor Live](https://builtbydans.github.io/EDX_Horiseon_Code_Refactor).
 
 ## Further Refactoring
 
