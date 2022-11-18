@@ -7,7 +7,7 @@ current accessibility standards. In order to do this, a through review of the HT
 the client did not request any visual changes to the website itself so this was purely a refactoring of the current
 codebase.
 
-A screenshot of the website provided by the client can be found here: * [Horiseon Landing Page](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/assets/01-html-css-git-challenge-demo.png)
+A screenshot of the website provided by the client can be found here: [Horiseon Landing Page](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/assets/01-html-css-git-challenge-demo.png)
 
 ## User Story
 
