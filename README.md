@@ -23,15 +23,15 @@ SO THAT our own site is optimized for search engines
 
 All acceptance criterias and challenge requirements can be found in the [Challenge README](https://github.com/builtbydans/EDX_Horiseon_Code_Refactor/blob/main/starter/Challenge_README.md)
 
-### Revisions
+## Revisions
 
-## HTML
+### HTML
 The HTML was revised to include a standardised HTML DOCTYPE, which included all relevant meta tags. All div tags were
-reviewed to ensure they followed a semantic HTML pattern. This included replacing divs for <header>, <nav>, <section>, <article> tags and more.
+reviewed to ensure they followed a semantic HTML pattern. This included replacing divs for header, nav, section, article tags and more.
 Small changes were also made to aid accessibility and SEO such as changing the <title> to reflect the Horiseon website and also adding appropriate
-<alt> attributes where necessary. All revisions can be found as comments in the HTML.
+alt attributes where necessary. All revisions can be found as comments in the HTML.
 
-## CSS
+### CSS
 As some classes were removed for semantic HTML elements, these were then reflected in the CSS. The CSS file itself was also re-organised and labelled to follow
 a sequential pattern based on the waterfall of the landing page, to aid other readers to understand what section(s) they need to refer to.
 Much of the CSS was repeated so to ensure the file remained DRY, classes were concatenated for ease-of-reference and to group elements semantically.
